@@ -11,10 +11,11 @@
   },
   "dependencies": {
     "bootstrap": "^4.0.0-beta.3",
+    "moment": "^2.22.2",
+    "popper.js": "^1.12.9",
     "vue": "^2.5.11",
-    "vue-router": "^3.0.1",
-    "moment": "2.18.1",
-    "vue-bootstrap-datetimepicker": "^3.0.0"
+    "vue-bootstrap-datetimepicker": "^3.0.0",
+    "vue-router": "^3.0.1"
   },
   "browserslist": [
     "> 1%",
@@ -22,9 +23,9 @@
     "not ie <= 8"
   ],
   "devDependencies": {
-    "babel-core": "^6.26.0",
+    "babel-core": "^6.26.3",
     "babel-loader": "^7.1.2",
-    "babel-preset-env": "^1.6.0",
+    "babel-preset-env": "^1.7.0",
     "babel-preset-stage-3": "^6.24.1",
     "cross-env": "^5.0.5",
     "css-loader": "^0.28.7",
